@@ -1,0 +1,83 @@
+Learning MySQL
+
+INSTALLING MYSQL
+Mysql forks
+Mysql community edition
+Percona server for mysql
+Mariadb server
+Mysql enterprise edition
+Installation choices and platforms
+Download distribution that you want to install
+Install distribution
+Perform any necesseray post installation setup
+Run benchmarks
+Installing mysql on windows 10
+Contents of mysql directory
+Mysql 5.7 default files
+Mysql 8 default files
+Using cli
+Using docker
+Installing docker
+Using sandboxes
+Installing dbdeployer
+Using dbdeployer
+Upgrading mysql server
+
+MODELING AND DESIGNING DATABASES
+How no to develop a database
+Database design process
+Entity relationship model
+Representing entities
+Representing relationships
+Partian and total participation
+Entity or attribute
+Entity or relationshop
+Intermediate entities
+Weak and strong entities
+Database normalization
+Normalizing an example table
+First normal form
+Second normal form
+Third normal form
+Entity relationship modeling examples
+Using entities and relationshops to database tables
+Creating a bank database er model
+Convering the eer to a mysql database using workbench
+
+BASIC SQL
+Using sakila database
+Select statement and basic querying techniquers
+Single table select
+Choosing columns
+Selecting rows with where clause
+Order by clause
+Limit clause
+Joining two tables
+Insert statement
+Insert basics
+Alternative syntaxes
+Delete statement
+Delete basics
+Using where, order by and limit
+Removing all rows with truncate
+Update statement
+Examples
+Using hwere, order by and limit
+Exploring databses and tables with show and mysqlshow
+
+WORKING WITH DATABASE STRUCTURES
+Creating and using databases
+Creating tables
+Basics
+Collation and characters sets
+Other features
+Column types
+Keys and indexes
+Auto increment feature
+Altering structures
+Adding removing and changing columnds
+Adding removing and changing indexes
+Renaming tables and altering other structures
+Deleting structures
+Dropping databases
+Removing tables

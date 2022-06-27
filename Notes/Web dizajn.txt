@@ -1,0 +1,98 @@
+Web dizajn
+
+OSNOVE WEBA
+Web strana
+Web sajt
+Podele programskih jezika za web sajtove
+Tipovi web sajtova
+Vrste korisnika web sajta
+Web pregledač
+URL adresa
+Http
+Komunikacija na internetu
+DNS
+Hosting
+Domen
+Web server
+Web pretraživač
+Oblast delovanja web dizajnera
+
+HTML
+ML - markup language
+Istorijski razvoj htmla
+Princip funkcionisanja web stranice
+Početak izrade web sajta
+Struktura jezika html
+Html tagovi
+Rad sa tekstom u htmlu
+Prikaz srpskih slova
+Rad sa pasusima
+Prelazak u novi red i načini ispisa unutar reda
+Stilizovanje teksta
+Entiteti
+Tagovi h1-h6
+Efekti nad tekstm
+Rad sa grafikom
+Kreiranje linija
+Rad sa bojom
+Postavljanje pozadinske boje
+Rad sa listama
+Definicione liste
+Referenciranje objekata
+Rad sa slikom
+Hyper linkovi
+Prikaz linkovanih dokumenata
+Formatiranje teksta linka
+Realizacija linka za slanje mejla
+Dodavanje slike u url adresu
+Rad sa multimedijalnim fajlovima
+Pozadinski zvuk
+Video fajl
+Organizacija sadržaja web stranice
+Rad sa frejmovima
+Rad sa tabelama
+Organizacija sadržaja pomoću css
+Html forme
+Tekstualna polja
+Radio tasteri
+Check polja
+Dropdown liste
+Tasteri
+Dizajn forme
+Organizacija elemenata forme
+Meta tagovi
+xHtml
+
+CSS
+Struktura css fajla
+CSS selektori
+Selektor u formi imena taga
+Selektor u formi atributa id
+Selektor u formi atributa class
+Selektor u formi specifičnog atributa
+Povezivanje html koda sa css kodom
+Svojstva za pozadinu
+Svojstva za tekst
+Svojstva za fontove
+Svojstva za linije
+Svojstva za liste
+Svojstva za pozicioniranje i prikaz
+Pozicioniranje elemenata
+Uslovni komentariđ
+Jedinice mere u css-u
+Primeri parcijalnih primena
+
+HTML5
+Ključne novine u html5
+Html 4 u odnosu na html5
+Primena html5 na početku web strane
+Primena html5 za organizaciju strane
+Primenta html5 za vizuelne efekte
+Html 5 tagovi za forme
+Html 5 tag <time>
+Novi tipovi taga <input>
+Novi atributi
+Rad sa audio video fajlovima
+Rad sa canvasom
+Rad sa geolokacijom
+Web storage API

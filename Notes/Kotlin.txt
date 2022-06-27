@@ -1,0 +1,43 @@
+Kotlin
+
+Chapter 1. getting started: A
+Quick Dip
+Welcome to kotlinville
+You can use kotlin nearly everywhere
+What we will do in this chapter
+Install intelij idea
+Lets build a basic application
+You have just created your first kotlin project
+Add a new kotlin file to the project
+Anatomy of the main function
+Add the main function to app.kt
+Test drive
+What can you say in the main function
+Loop and loop and loop
+A loopy example
+Conditional branching
+Using if to return a value
+Upadte the main function
+Using kotlin interactive shell
+You can add multiline code snipperts to the repl
+Your kotlin toolbox
+
+BASIC TYPES AND VARIABLES BEING A VARIABLE
+Your code needs variables
+What happens when you declare a variable
+Variable holds a reference to the object
+Kotlin basic types
+How to explicitly declare variables type
+Use the right value for the variables type
+Assigning value to the another variable
+We need to conver the value
+What happends when you convert a value
+Whatch out for the overspill
+Store multiple values in an array
+Create the phraseomatic
+Add the code to phraseomatic.kt
+Compiler infers the arrays type from its values
+var means the variable can point to a different array
+val means the variable points to the same array forever
+Mixed references
+Your kotlin toolbox

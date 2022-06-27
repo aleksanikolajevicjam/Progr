@@ -1,0 +1,24 @@
+C programiranje
+
+REŠAVANJE PROBLEMA UZ POMOĆ RAČUNARA
+Mašinska obrada podataka
+Tjuringova mašina
+Fon Nojmanova arhitektura
+Mašinsko i asemblersko programiranje
+Klasifikacija programskih jezika
+Faze u rešavanju problema uz pomoć računara
+
+ALGORITMI
+Tekstualni opis algoritma
+Dijagrami toka
+Početak i kraj programa
+Unos i prikaz rezultata
+Obrada podataka
+Kontrola toka izvšrenja programa
+Osnovne i složene algoritamske strukture
+Sekvenca 
+Alternacija
+Petlje
+Složene algoritamske strukture
+Strukturogrami
+Pseudokod

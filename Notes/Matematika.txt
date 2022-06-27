@@ -1,0 +1,45 @@
+Matematika
+
+UVOD
+Jezik matematike
+Osnovni pojmovi matematičke logike
+Osnovni pojmovi teorije skupova
+Operacije sa skupovima
+Kardinalni broj
+Zadaci za proveru znanja
+
+TEORIJA BROJEVA
+Prirodni brojevi
+Celi brojevi
+Racionalni brojevi
+Iracionalni brojevi
+Realni brojevi
+Prošerenje skupa realnih brojeva
+Kompleksni brojevi
+Algebarski oblik kompleksnog broja
+Operacije sa kompleksnim brojevima u algebarskom obliku
+Zadaci za proveru znanja
+Trigonometrijski oblik kompleksnog broja
+Operacije sa kompleksnim brojevima u trigonometrijskom obliku
+Zadaci za proveru znanja
+Eksponencijalni oblik kompleksnog broja
+Operacije sa kompleksnim brojevima u eksponencijalnom obliku
+
+FUNKCIJE
+Pojam funkcije
+Načini zadavanja funkcija
+Realne funkcije jedne promenljive
+Inverzna funkcija
+Slaganje funkcija
+Osobine funkcija
+Pregled elementarnih funkcija
+Zadaci za proveru znanja
+
+NIZOVI
+Nizovi
+Granična vrednost niza
+Osobine konvergentnih nizova
+Operacije sa graničnim vrednostima nizova
+Tačka nagomilavanja niza
+Broj e
+Zadaci za proveru znanja

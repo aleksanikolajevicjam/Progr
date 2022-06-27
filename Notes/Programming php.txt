@@ -1,0 +1,175 @@
+Programming php
+
+INTRODUCTION TO PHP /
+What does php do /
+A brief history of php /
+Evolution of php /
+Widespread use of php /
+Installing php /
+Walk through php /
+Configuration page /
+Forms /
+Databases /
+Graphics /
+Whats next /
+
+LANGUAGE BASICS /
+Lexical structure /
+Case sensitivity /
+Statements and semicolons /
+Whitespace and line breaks /
+Comments
+Literals
+Identifiers
+Keywords
+Data types
+Integers
+Floating point numbers
+Strings
+Booleans
+Array
+Objects
+Resources
+Callbacks
+Null
+Variables
+Variable variables
+Variable references
+Variable scope
+Garbage collection
+Expressions and operators
+Number of operands
+Operator precedence
+Implicit casting
+Arithmetic operators
+String concatenation operator
+AutoIncrement and auto decrement operators
+Comparison operators
+Bitwise operators
+Logical operators
+Casting operators
+Assignment operators
+Miscellaneous operators
+Flow control statements
+If 
+Switch
+While
+For 
+Foreach
+try catch
+Declare
+exit and return
+goto
+Including code
+Embedding php in web pages
+Standard xml style
+SGML style
+Echoing content directly
+Whats next
+
+FUNCTIONS
+Calling a function
+Defining a function
+Variable scope
+Global variables
+Static variables
+Function parameters
+Passing parameters by value
+Passing parameters by reference
+Default parameters
+Variable parameters
+Missing parameters
+Type hinting
+Variable functions
+Anonymous functions
+Whats next
+
+STRINGS
+Quoting string constants
+Variable interpolation
+Single quoted strings
+Double quoted strings
+Here documents
+Printing strings
+Echo
+print
+printf
+print_r and var_dump
+Accessing individual characters
+Cleaning strings
+Removing whitespace
+Changing case
+Encoding and escaping
+html
+url
+sql
+c-string encoding
+Comparing strings
+Exact comparisons
+Approximate equality
+Manipulating and searching strings
+Substrings
+Miscellaneous string functions
+Decomposing a string
+String searching functions
+Regular expresions
+Basics
+Character classes
+Alternatives
+Repeating sequences
+Subpattersn
+Delimiters
+Match behaviour
+Character classes
+Anchors
+Quantifiers and greed
+Noncapturing groups
+Backreferences
+Trailing options
+Inline options
+Lookahead and lookbehind
+Cut
+Conditional expressions
+Functions
+Differences from perl regular expressions
+Whats next
+
+ARRAYS
+Indexed versus associative arrays
+Identifying elements of an array
+Storing data in arrays
+Appending values to an array
+Assigning a range of values
+Getting size of an array
+Padding an array
+Multidimensional arrays
+Extracting multiple values
+Slicing array
+Splitting array into chunkcs
+Keys and values
+Checking whether an element exists
+Removing and insterting elements in array
+Converting between arrays and variables
+Creating variables from array
+Creating array from variables
+Traversing arrays
+foreach construct
+Iterator functions
+Using for loop
+Calling function for each array element
+Reducing array
+Searching for values
+Sorting
+Sorting one array at a time
+Natural order sorting
+Sorting multiple arrays at once
+Reversing arrays
+Randomizing order
+Acting on entire arrays
+Merging two arrays
+Calculating difference between 2 arays
+Filtering elements from an array
+Using arrays to implement data types
+Sets
+Stacks
+Implementing iterator interface

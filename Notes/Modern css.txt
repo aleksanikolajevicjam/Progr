@@ -1,0 +1,104 @@
+Modern css
+
+INTRODUCTION TO CSS
+A bit of history
+Anatomy of css rule
+Rule syntax
+Propert conflicts
+Comments
+At rules
+How css is used
+Inline styles
+Style blocks
+External style sheets
+Browser support
+Web resources
+CSS preprocessros
+Nested rules
+Variables
+Mixins
+How css works in browser
+DOM
+CSSOM
+Render tree
+Layout and paint
+Summary
+
+CSS SELECTORS
+Basic selector types
+Universal selector
+Element selectors
+ID selectors
+Class selectors
+Attribute selectors
+Compund selectors
+Multiple independent selectors
+Selector combinators
+Descendant combinator
+Child combinator
+General sibling combinator
+Adjacent sibling combinator
+Using multiple combinators
+Pseudo classes
+UI state
+Document structure
+NEgating a selector
+Psuedo elements
+first line
+first letter
+before, after
+Specifity
+Specifity rankings
+Calculating specifity
+Escape hatch !important
+Summary
+
+BASIC CSS CONCEPTS
+Box model
+Box sizing
+Block and inline elements
+Block elements
+Inline elements
+Inline block elements
+Units
+px
+em
+rem
+viewport units vw and vh
+Percentage
+No units
+Other units
+Functions
+calc
+Colors
+Predefined colors
+RGB colors
+HSL colors
+Transfparent
+Newer color syntax
+Overflow
+Handling overflow
+CSS variables
+Using variables
+Variable inheritance
+USing variables in css calculations
+Summary
+
+BASIC STYLING
+Property values
+Global keywords
+Shorthand and multiple values
+Broders
+Border color
+border width
+border style
+border
+border collapese
+border radius
+Box shadows
+Opacity
+Hiding elements
+display none
+visibility hidden
+opacity 0
+Summary

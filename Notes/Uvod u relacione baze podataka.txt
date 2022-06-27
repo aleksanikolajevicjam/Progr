@@ -1,0 +1,74 @@
+Uvod u relacione baze podataka
+
+1 Relacioni model podataka
+1.1 O modelima podataka
+1.2 Strukturni deo relacionog modela
+1.3 Manipulativni deo relacionog modela
+1.3.1 Nedostaju´ce vrednosti 
+1.4 Integritetni deo relacionog modela
+1.4.1 Primarni kljuˇc 
+1.4.2 Strani kljuˇc
+1.4.3 Trigeri 
+1.5 Pitanja i zadaci 
+
+2 Manipulativni formalizmi relacionog modela 28
+2.1 Relaciona algebra
+2.1.1 Unarne operacije
+2.1.2 Binarne operacije
+2.1.3 Proˇsirena relaciona algebra
+2.2 Relacioni raˇcun
+2.2.1 Relacioni raˇcun n-torki 
+2.2.2 Relacioni raˇcun domena 
+2.3 Pitanja i zadaci 
+II Relacioni upitni jezici 
+
+3 Upitni jezik SQL 
+3.1 Istorijat 
+3.2 Definisanje podataka
+3.2.1 Shema 
+3.2.2 Bazne tabele.
+3.2.3 Indeksi 
+3.2.4 Pogledi 
+3.3 Manipulisanje podacima 
+3.3.1 Pretraˇzivanje 
+3.3.2 Jednorelacioni upiti
+3.3.3 Upiti spajanja
+3.3.4 Podupiti 
+3.3.5 Korelisani podupiti 
+3.3.6 Egzistencijalni kvantifikator
+3.3.7 Agregatne funkcije 
+3.3.8 Operator grupisanja
+3.3.9 Puni upitni blok 
+3.3.10 Operator uredenja i operator WITH
+3.3.11 Naˇcin izvrˇsavanja SELECT iskaza 
+3.3.12 Relaciona kompletost SQL-a 
+3.3.13 Unoˇsenje 
+3.3.14 Aˇzuriranje 
+3.3.15 Brisanje 
+3.4 Aplikativni SQL 
+3.5 Dinamiˇcki SQL 
+3.6 Autorizacija i prava korisnika baze podataka .
+3.7 Pitanja i zadaci 
+
+4 Pogledi 
+4.1 Definisanje pogleda 
+4.1.1 Kreiranje pogleda 
+4.1.2 Eksplicitno imenovanje kolona pogleda 
+4.1.3 Kreiranje pogleda nad drugim pogledima 
+4.1.4 Uklanjanje pogleda 
+4.2 Pretraˇzivanje pogleda 
+4.3 Aˇzuriranje, unoˇsenje i brisanje nad pogledima 
+4.4 Prednosti pogleda 
+4.5 Novi pristup pogledima
+4.5.1 Unija, presek, razlika
+4.5.2 Restrikcija 
+4.5.3 Projekcija
+4.5.4 Prirodno spajanje 
+4.6 Pitanja i zadaci 
+
+5 Standardi SQL-a 
+5.1 Standardni jezik baza podataka SQL2 
+5.1.1 Definisanje podataka 
+5.1.2 Manipulisanje podacima 
+5.1.3 Aplikativni SQL 
+5.2 Pitanja i zadaci 
